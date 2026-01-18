@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **System Design, DSA, Game Development**
 - 💻 All of my projects are available on [GitHub](https://github.com/TRINESHHM)
-- 📫 Reach out to me at [mba384420@gmail.com](mailto:mba384420@gmail.com)
+- 📫 Reach out to me at [mba384420@gmail.com](mailto:trineshhmsrujan@gmail.com)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
